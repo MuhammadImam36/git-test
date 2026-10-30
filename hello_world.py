@@ -1,1 +1,4 @@
-print("Hello World!")
+def print_hello(name):
+    print(name)
+
+print_hello("Imam")
