@@ -1,4 +1,4 @@
 def print_hello(name):
-    print(name)
+    print(f"Hello {name}")
 
 print_hello("Imam")
